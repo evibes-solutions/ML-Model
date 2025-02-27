@@ -1,0 +1,23 @@
+Steps to run the code
+
+Open the terminal
+
+-Step1:
+    On the terminal type
+    cd frontend
+    enter
+    npm start
+
+this will open the frontend on the google tab
+
+-Step 2:
+    Open a new terminal
+    type 
+    cd backend
+    type 
+    uvicorn main:app --reload
+
+this will run your backend
+
+after this go to the frontend and see its working
+
